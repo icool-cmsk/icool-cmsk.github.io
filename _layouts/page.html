@@ -8,7 +8,8 @@ layout: default
   </header>
 
   <div class="post-content cust-container">
-    {{ content }}
+    <aside><div>{% include toc.html html=content h_min=1 h_max=2 %}</div></aside>
+    <main><div class="item">{{ content }}</div></main>
   </div>
 
 </article>
