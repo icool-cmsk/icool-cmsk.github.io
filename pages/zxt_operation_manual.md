@@ -1,8 +1,10 @@
-# 小招通后台管理系统管理员操作手册
+---
+layout: page
+---
 
 # 社区创建规则-品牌层
 
-![](pic/dashbroad_for_all_brand.png)
+![](/assets/images/dashbroad_for_all_brand.png)
 
 ## 社区命名规则
 
@@ -10,7 +12,7 @@
   - 社区名称:优先地址楼宇简写，方便地理位置定位，例如“南海意库”
   - 社区编码规则：社区名称拼音首字母加顺延两位数字编号：nhyk01
 
-![](pic/community.png)
+![](/assets/images/community.png)
 
 ## 社区基础信息
 
@@ -23,9 +25,9 @@
   - 经营状态：选择『正常营业』
   - 建筑面积：填写实际面积(公摊前的建筑面积)
 
-![](pic/community_info.png)
+![](/assets/images/community_info.png)
 
-![](pic/community_images.png)
+![](/assets/images/community_images.png)
 
 ## 社区管理人员信息
 
@@ -34,7 +36,7 @@
   - 社区经理新增：支持多名社区经理信息在线；
   - 社区其他人员信息：财务、业务、运营人员各一名；填写对应人员姓名及手机；
 
-![](pic/manager_info_of_community.png)
+![](/assets/images/manager_info_of_community.png)
 
 ## 面部识别设备
 
@@ -50,17 +52,17 @@
 
 ## 工位资源管理
 
-![](pic/dashbroad_for_community.png)
+![](/assets/images/dashbroad_for_community.png)
 
 ### 工位命名规则
 
   - 工位命名规则：使用『工位、会议室空间资源信息模板』，进行命名规范；
 
-![](pic/add_desk_info.png)
+![](/assets/images/add_desk_info.png)
 
 ### 工位信息新建
 
-![](pic/setting_desk_info.png)
+![](/assets/images/setting_desk_info.png)
 
 - 工位查询：
   - 新增工位:
@@ -118,7 +120,7 @@
 
 ## 会议室资源管理
 
-![](pic/meeting_room_info.png)
+![](/assets/images/meeting_room_info.png)
 
 ### 会议室命名规则及创建
 
@@ -151,7 +153,7 @@
 
 ## 场地资源管理
 
-![](pic/space.png)
+![](/assets/images/space.png)
 
 ### 场地命名规则及创建
 
@@ -181,7 +183,7 @@
 
 ## 运营人员权限分配-管理设置
 
-![](pic/role.png)
+![](/assets/images/role.png)
 
 ### 系统管理员
 
@@ -199,7 +201,7 @@
   - 对新增角色进行管理权限分配；
   - 直接退出即可保存；
 
-![](pic/role_info.png)
+![](/assets/images/role_info.png)
 
 - 用户新增：
   - 用户名：尽量用拼音或英文字符；
@@ -210,11 +212,11 @@
 
 ## CRM-入住企业、个人信息登记系统
 
-![](pic/crm.png)
+![](/assets/images/crm.png)
 
 ### 企业客户信息登记
 
-![](pic/crm_companyinfo.png)
+![](/assets/images/crm_companyinfo.png)
 
 - 填写“合同信息及人员台账”模板；
 - 公司信息，依照系统新建规则，完成信息填写。
@@ -224,16 +226,16 @@
 
 ### 个人客户信息登记：
 
-![](pic/crm_person.png)
+![](/assets/images/crm_person.png)
 
 - 目前仅提供模板导入，单人或多人；
 - 姓名、86（无+号）、手机号
 
 ### 个人用户添加到企业群组
 
-![](pic/crm_add_persontogroup.png)
+![](/assets/images/crm_add_persontogroup.png)
 
-![](pic/crm_add_persontogroup2.png)
+![](/assets/images/crm_add_persontogroup2.png)
 
 - 企业客户界面，选中企业信息行，点击四个灰色小格，点击修改第一行查找“成员列表”；
 - "添加成员手机信息”后，完成授权确认；
@@ -252,9 +254,9 @@
 
 ### 工位代客下单（90%订单的系统登记工作）
 
-![](pic/valet_order.png)
+![](/assets/images/valet_order.png)
 
-![](pic/order_info.png)
+![](/assets/images/order_info.png)
 
 - 选择订单公司信息
 - 租期：“自定义“遵循订单实际发生日期；
@@ -269,7 +271,7 @@
 
 ### 工位退租
 
-![](pic/unrent.png)
+![](/assets/images/unrent.png)
 
 - 工位订单中，选择订单信息行尾后的灰色小方格，选择“退租”；
 - 填写退租工位、时间；
@@ -279,20 +281,20 @@
 
 - 订单查询功能
 
-![](pic/order_list.png)
+![](/assets/images/order_list.png)
 
 ### 场地
 
 - 场地订单查询
 
-![](pic/spaceorder_list.png)
+![](/assets/images/spaceorder_list.png)
 
 ## 订单管理
 
 > 前置动作
 >> 合同录入系统，确认合同履行周期；
 
-![](pic/order_payment.png)
+![](/assets/images/order_payment.png)
 - 工位订单
   - 确认合同履行，查看“全部付款周期”，点击“我要收款”，勾选“付款”周期；
   - 选择付款方式，完成备注填写，确认并退出。
@@ -307,9 +309,9 @@
 
 ## 活动管理
 
-![](pic/activity_list.png)
+![](/assets/images/activity_list.png)
 
-![](pic/activity_setting.png)
+![](/assets/images/activity_setting.png)
 
 - 运营人员管理活动发布界面：
   - 新增活动：填写活动信息等图文资料；
@@ -327,7 +329,7 @@
 >> 合同录入系统，合同履行周期开始，完成对应收款确认；
 >>> 会议室订单在线生成，需要运营审批退款；
 
-![](pic/finance.png)
+![](/assets/images/finance.png)
 
 - 企业账户：
   - 依照网页提醒，参考运营状况及数据;
@@ -354,7 +356,7 @@
 
 ### 门禁角色管理
 
-![](pic/guard_role.png)
+![](/assets/images/guard_role.png)
 
 - 此界面仅对门组的管理：
   - 开放区域的门禁，可设定为一个群组，方便客户的授权管理；
@@ -364,7 +366,7 @@
 
 ### 门禁授权管理
 
-![](pic/guard_authentication.png)
+![](/assets/images/guard_authentication.png)
 
 - 此界面对入住用户进行门禁授权管理：
   - 企业用户操作：
@@ -409,7 +411,7 @@
 
 ### 线上生成代金券规则：
 
-![](pic/voucher.png)
+![](/assets/images/voucher.png)
 
 #### 批次管理
 
@@ -424,7 +426,7 @@
 
 #### 批次发放
 
-![](pic/voucher_list.png)
+![](/assets/images/voucher_list.png)
 
 - “点击”申请批次，尾部的四个灰色小格子，完成批次生成；
 - 再次 “点击”申请批次，尾部的四个灰色小格子，进行发放操作：
@@ -434,7 +436,7 @@
 
 #### 代金券管理
 
-![](pic/voucher_management.png)
+![](/assets/images/voucher_management.png)
 
 - 可进行批量“批次发放”；
 - 可进行批量“撤销发放”；
@@ -442,14 +444,14 @@
 
 ## 票据管理
 
-![](pic/finance.png)
+![](/assets/images/finance.png)
 
 - 搜索客户名称、未开票，选择开票周期，勾选需要开票信息行，点击“+开发票”；
 - 发票记录：视运营需要可查票据信息；
 
 ## 数据中心
 
-![](pic/data_dashboard.png)
+![](/assets/images/data_dashboard.png)
 
 - 常用数据依照网页提醒，参考运营状况及数据;
 
@@ -470,7 +472,7 @@
 > 前置动作
 >> 客户前端系统提报待修复问题；
 
-![](pic/fixed_application.png)
+![](/assets/images/fixed_application.png)
 
 - 通知管理
   - 登记报事管理人姓名：运营人员信息
